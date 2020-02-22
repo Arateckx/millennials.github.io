@@ -834,7 +834,8 @@ input[type='checkbox'] {
 .basic-1 .image-container img {
 	margin: 0;
 	border-radius: 0.25rem;
-	transition: all 0.3s;
+	transition: all 1s;
+	padding-top: 30px;
 }
 
 .basic-1 .image-container:hover img {
